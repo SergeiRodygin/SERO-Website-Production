@@ -1,2 +1,2 @@
 # SERO-Website-Production
-https://github.com/SergeiRodygin/SergeiRodygin.git
+ https://sergeirodygin.github.io/SERO-Website-Production/
